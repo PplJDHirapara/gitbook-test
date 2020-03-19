@@ -1,5 +1,5 @@
 ---
-description: This is client side SDK page for gitbook-test is updated
+description: This is client side SDK page for gitbook-test
 ---
 
 # Client side functions SDK
